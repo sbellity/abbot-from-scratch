@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "sproutcore/version"
 
 Gem::Specification.new do |s|
-  s.name        = "abbot-from-scratch"
+  s.name        = "sproutcore"
   s.version     = SproutCore::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Strobe"]
